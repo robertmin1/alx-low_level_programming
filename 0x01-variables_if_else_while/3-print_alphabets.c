@@ -1,12 +1,10 @@
-
+#include <stdio.h>
 /**
  * main - main block
  * Use `putchar` to print lowercase and then uppercase alphabet.
  * Return: 0
  */
  
-#include <stdio.h>
-
 int main(void)
 {
 	char c = 'a';
