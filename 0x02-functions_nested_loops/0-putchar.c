@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main - main block
  *
@@ -7,7 +6,6 @@
  *
  * Return: 0 
  */
-
 int main(void)
 {
 	char text[9] = "_putchar";
