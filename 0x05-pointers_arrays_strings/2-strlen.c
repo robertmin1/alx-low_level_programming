@@ -5,7 +5,8 @@ int _strlen(char *s)
 {
   
   int len;
-len = _strlen(s);
+  a = s;
+len = _strlen(a);
 printf("%d", len);
 return(0);
 }
