@@ -2,7 +2,7 @@
 
 
 /*
-*main - check code
+*reset_to_98 - set the pointer to 98
 *
 *Return: Always 0.
 */
