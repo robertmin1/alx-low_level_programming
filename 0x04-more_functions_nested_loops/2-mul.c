@@ -3,8 +3,7 @@
  *mul - multiplies two ints.
  *@a: integer.
  *@b: integer.
- *
- *Return: product.
+ *Return product.
  */
 int mul(int a, int b)
 {
