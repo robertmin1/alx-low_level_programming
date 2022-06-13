@@ -4,6 +4,7 @@
 /**
  *_puts - to prints the string
  *@str- char array string type
+ *Return: void
  *Description : You can only use _putchar
  */
 
