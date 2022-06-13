@@ -3,12 +3,8 @@
 
 void swap_int(int *a, int *b)
 {
-  int a;
-  int b;
-  *c = &a;
-  *d = &b;
-
-  a = &b;
-  b = &a;
-
+  int c;
+  c = *a;
+  *a = *b;
+  *b = c;
 }
