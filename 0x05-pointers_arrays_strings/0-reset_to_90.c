@@ -1,5 +1,5 @@
-# include "main.h"
-#incude <stdio.h>
+#include "main.h"
+#include <stdio.h>
 
 /*
 *main - check code
