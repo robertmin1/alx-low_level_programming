@@ -2,7 +2,7 @@
 
 
 /*
-*reset_to_98 - Set pointer param to 98.
+*reset_to_98 - A function that takes the pointer of an integer and changes it to 98
 *
 *Return: Always 0.
 */
