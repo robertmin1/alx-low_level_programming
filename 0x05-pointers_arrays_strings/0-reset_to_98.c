@@ -2,7 +2,7 @@
 
 
 /*
-*reset_to_98 - set the pointer to 98
+*reset_to_98 - Set pointer param to 98.
 *
 *Return: Always 0.
 */
