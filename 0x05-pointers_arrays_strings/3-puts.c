@@ -3,7 +3,7 @@
 
 /**
  *_puts - to prints the string
- *@str- char array string type
+ *@str: string
  *Return: void
  *Description : You can only use _putchar
  */
