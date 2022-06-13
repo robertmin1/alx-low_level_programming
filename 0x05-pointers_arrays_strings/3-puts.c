@@ -1,6 +1,13 @@
 #include "main.h"
 #include <stdio.h>
 
+/**
+ *_puts - to prints the string
+ *
+ *Description : You can only use _putchar
+ */
+
+
 void _puts(char *str)
 {
 	int i;
