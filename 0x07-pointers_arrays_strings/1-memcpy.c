@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _memcpy - copy memory area
+ * _memcpy -copy memory area
  * @dest: char array to copy into
  * @src: char array to copy from
  * @n: number of elements to copy
