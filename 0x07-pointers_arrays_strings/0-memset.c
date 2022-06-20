@@ -1,5 +1,4 @@
 #include "main.h"
-
 /*
  * Fill memory with a constant byte
  * @s: buffer array
@@ -9,7 +8,6 @@
  * with the constant byte `b`.
  * Return: Pointer to memory area `s`
  */
-
 char *_memset(char *s, char b, unsigned int n)
 {
 	int i;
