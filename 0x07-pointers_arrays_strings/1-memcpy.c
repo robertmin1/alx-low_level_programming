@@ -10,9 +10,9 @@
 
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
-	char *yolo;
+	char *catt;
 
-	yolo = dest;
+	catt = dest;
 	while (n > 0)
 	{
 		*dest = *src;
@@ -21,5 +21,5 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 		n--;
 	}
 
-	return (yolo);
+	return (catt);
 }
